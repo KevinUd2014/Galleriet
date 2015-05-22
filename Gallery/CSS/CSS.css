@@ -1,0 +1,55 @@
+﻿#ButtonBox {
+padding:10px;
+width:400px;
+margin-top:10px;
+height:auto;
+}
+
+
+#UploadSuccess{
+width:350px;
+height:70px;
+
+text-align:center;
+padding-top:38px;
+margin:30px;
+}
+
+#ThumbnailPictures {
+width:400px;
+overflow-y:scroll;
+height:130px;
+background-color:white;
+padding:3px;
+}
+
+
+.BigImage
+{
+    height:600px;
+    width:auto;
+}
+#ThumbnailPictures a:focus {
+
+}
+
+
+.ImgButtonSize{
+width:24px;
+height:24px;
+position:absolute;
+top:30px;
+left:363px;
+}
+
+.Validation-Errors{
+color:red;
+}
+
+.ThumbNailBackground{
+display:inline-block;
+width:60px;
+padding:5px;
+height:45px;
+/*background-color:black;*/
+}

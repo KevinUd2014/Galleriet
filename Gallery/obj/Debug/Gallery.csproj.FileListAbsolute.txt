@@ -1,0 +1,30 @@
+F:\Arbeten! 2.0\Gallery\Gallery\obj\Debug\Gallery.csprojResolveAssemblyReference.cache
+F:\Arbeten! 2.0\Gallery\Gallery\bin\Gallery.dll.config
+F:\Arbeten! 2.0\Gallery\Gallery\bin\Gallery.dll
+F:\Arbeten! 2.0\Gallery\Gallery\bin\Gallery.pdb
+F:\Arbeten! 2.0\Gallery\Gallery\obj\Debug\Gallery.dll
+F:\Arbeten! 2.0\Gallery\Gallery\obj\Debug\Gallery.pdb
+E:\Arbeten! 2.0\Gallery\Gallery\bin\Gallery.dll.config
+E:\Arbeten! 2.0\Gallery\Gallery\bin\Gallery.dll
+E:\Arbeten! 2.0\Gallery\Gallery\bin\Gallery.pdb
+E:\Arbeten! 2.0\Gallery\Gallery\obj\Debug\Gallery.csprojResolveAssemblyReference.cache
+E:\Arbeten! 2.0\Gallery\Gallery\obj\Debug\Gallery.dll
+E:\Arbeten! 2.0\Gallery\Gallery\obj\Debug\Gallery.pdb
+C:\Users\kn222gn\Desktop\Gallery\Gallery\bin\Gallery.dll.config
+C:\Users\kn222gn\Desktop\Gallery\Gallery\bin\Gallery.dll
+C:\Users\kn222gn\Desktop\Gallery\Gallery\bin\Gallery.pdb
+C:\Users\kn222gn\Desktop\Gallery\Gallery\obj\Debug\Gallery.csprojResolveAssemblyReference.cache
+C:\Users\kn222gn\Desktop\Gallery\Gallery\obj\Debug\Gallery.dll
+C:\Users\kn222gn\Desktop\Gallery\Gallery\obj\Debug\Gallery.pdb
+F:\Arbeten! 2.0\New\Gallery\Gallery\bin\Gallery.dll.config
+F:\Arbeten! 2.0\New\Gallery\Gallery\bin\Gallery.dll
+F:\Arbeten! 2.0\New\Gallery\Gallery\bin\Gallery.pdb
+F:\Arbeten! 2.0\New\Gallery\Gallery\obj\Debug\Gallery.csprojResolveAssemblyReference.cache
+F:\Arbeten! 2.0\New\Gallery\Gallery\obj\Debug\Gallery.dll
+F:\Arbeten! 2.0\New\Gallery\Gallery\obj\Debug\Gallery.pdb
+E:\Arbeten! 2.0\New\Gallery\Gallery\bin\Gallery.dll.config
+E:\Arbeten! 2.0\New\Gallery\Gallery\bin\Gallery.dll
+E:\Arbeten! 2.0\New\Gallery\Gallery\bin\Gallery.pdb
+E:\Arbeten! 2.0\New\Gallery\Gallery\obj\Debug\Gallery.csprojResolveAssemblyReference.cache
+E:\Arbeten! 2.0\New\Gallery\Gallery\obj\Debug\Gallery.dll
+E:\Arbeten! 2.0\New\Gallery\Gallery\obj\Debug\Gallery.pdb
